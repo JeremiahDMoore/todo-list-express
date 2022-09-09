@@ -1,2 +1,3 @@
-npm install
-add DB_STRING to .env file
+#ToDo List
+
+Built with Node, Express, MongoDB
